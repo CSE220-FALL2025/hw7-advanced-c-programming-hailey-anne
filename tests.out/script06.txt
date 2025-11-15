@@ -1,0 +1,2 @@
+execute_script: src/hw7.c:452: print_matrix_sf: Assertion `mat != NULL' failed.
+Aborted (core dumped)
